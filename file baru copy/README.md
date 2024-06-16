@@ -1,2 +1,2 @@
-//npm i terus npm run dev , kalau belum bisa cek cdnya- biasanyaaku ubah manual di laptop aku karena belum bisa ubah permanen ssendiri hiks
+//npm i terus npm run dev , kalau belum bisa cek cdnya- biasanyaaku ubah manual di laptop aku karena belum bisa ubah permanen ssendiri 
 //seikhlasnya aja kak :') makasih
